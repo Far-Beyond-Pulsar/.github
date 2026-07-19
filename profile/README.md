@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="580453089-e36bfc3b-f5e8-437e-a50a-967ee254a0eb" src="https://github.com/user-attachments/assets/e8b4f6fc-194e-4a08-9970-3536cc1bd82e" alt="Project 1" width="64"/>
-  <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/Helio/c76e81fa713d10bd5a78aa8a8f569711049a561a/branding/Helio.svg" alt="Project 2" width="64">
-  <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/SceneDB/refs/heads/main/logo.png" alt="Project 3" width="64">
-  <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/crab_tunnel/refs/heads/main/assets/crab_tunnel.png" alt="Project 4" width="64">
+  <img alt="580453089-e36bfc3b-f5e8-437e-a50a-967ee254a0eb" src="https://github.com/user-attachments/assets/e8b4f6fc-194e-4a08-9970-3536cc1bd82e" alt="Project 1" width="128"/>
+  <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/Helio/c76e81fa713d10bd5a78aa8a8f569711049a561a/branding/Helio.svg" alt="Project 2" width="128">
+  <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/SceneDB/refs/heads/main/logo.png" alt="Project 3" width="128">
+  <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/crab_tunnel/refs/heads/main/assets/crab_tunnel.png" alt="Project 4" width="128">
 </p>
 
 # 👋 Hi there!
