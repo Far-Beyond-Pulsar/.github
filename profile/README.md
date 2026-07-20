@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/SceneDB/refs/heads/main/logo.png" alt="Project 3" width="100">
   <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/crab_tunnel/refs/heads/main/assets/crab_tunnel.png" alt="Project 4" width="100">
   <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/WGPUI/refs/heads/main/logo.png" alt="Project 4" width="100">
-  <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/Solid3D/refs/heads/main/Solid3D.png" alt="Project 4" width="100">
+  <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/SceneDB/refs/heads/main/SceneDB_Logo.png" alt="Project 4" width="100">
 </p>
 
 # 👋 Hi there!
