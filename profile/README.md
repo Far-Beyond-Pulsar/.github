@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/Helio/c76e81fa713d10bd5a78aa8a8f569711049a561a/branding/Helio.svg" alt="Project 2" width="100">
   <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/SceneDB/refs/heads/main/logo.png" alt="Project 3" width="100">
   <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/crab_tunnel/refs/heads/main/assets/crab_tunnel.png" alt="Project 4" width="100">
+  <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/WGPUI/refs/heads/main/logo.png" alt="Project 4" width="100">
 </p>
 
 # 👋 Hi there!
