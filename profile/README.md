@@ -7,6 +7,7 @@
   <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/Gamma/refs/heads/main/assets/Gamma.png" alt="Project 4" width="100">
   <img src="https://raw.githubusercontent.com/Far-Beyond-Pulsar/SceneDB/refs/heads/main/SceneDB_Logo.png" alt="Project 4" width="100">
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dc0b8561-edc0-45c8-8580-60a178241d4f" />
+  <img width="100" height="100" alt="reflection" src="https://github.com/user-attachments/assets/2ef37a0d-63ff-4f45-8afd-a86cb930111c" />
 </p>
 
 # 👋 Hi there!
