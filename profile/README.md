@@ -10,6 +10,8 @@
   <img width="100" height="100" alt="reflection" src="https://github.com/user-attachments/assets/2ef37a0d-63ff-4f45-8afd-a86cb930111c" />
 </p>
 
+# [Help us progress](https://github.com/orgs/Far-Beyond-Pulsar/projects/1/views/1)
+
 # 👋 Hi there!
 
 ## Welcome to the Pulsar Engine GitHub organization.
